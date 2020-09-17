@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jack.parra\\source\\repos\\GestionLogistica\\GestionLogistica\\GestionLogistica.csproj",
+      "projectUniqueName": "C:\\Users\\jack.parra\\Documents\\Jack\\Code\\CatalogoPatronesDise-o\\GestionLogistica\\GestionLogistica\\GestionLogistica.csproj",
       "projectName": "GestionLogistica",
-      "projectPath": "C:\\Users\\jack.parra\\source\\repos\\GestionLogistica\\GestionLogistica\\GestionLogistica.csproj",
+      "projectPath": "C:\\Users\\jack.parra\\Documents\\Jack\\Code\\CatalogoPatronesDise-o\\GestionLogistica\\GestionLogistica\\GestionLogistica.csproj",
       "packagesPath": "C:\\Users\\jack.parra\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jack.parra\\source\\repos\\GestionLogistica\\GestionLogistica\\obj\\",
+      "outputPath": "C:\\Users\\jack.parra\\Documents\\Jack\\Code\\CatalogoPatronesDise-o\\GestionLogistica\\GestionLogistica\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jack.parra\\AppData\\Roaming\\NuGet\\NuGet.Config",
