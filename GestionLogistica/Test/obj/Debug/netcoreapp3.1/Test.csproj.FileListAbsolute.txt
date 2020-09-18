@@ -94,3 +94,6 @@ C:\Users\jack.parra\Documents\Jack\Code\CatalogoPatronesDise-o\GestionLogistica\
 C:\Users\jack.parra\Documents\Jack\Code\CatalogoPatronesDise-o\GestionLogistica\Test\obj\Debug\netcoreapp3.1\Test.dll
 C:\Users\jack.parra\Documents\Jack\Code\CatalogoPatronesDise-o\GestionLogistica\Test\obj\Debug\netcoreapp3.1\Test.pdb
 C:\Users\jack.parra\Documents\Jack\Code\CatalogoPatronesDise-o\GestionLogistica\Test\obj\Debug\netcoreapp3.1\Test.genruntimeconfig.cache
+C:\Users\jack.parra\Documents\Jack\Code\CatalogoPatronesDise-o\GestionLogistica\Test\bin\Debug\netcoreapp3.1\GestionLogistica.exe
+C:\Users\jack.parra\Documents\Jack\Code\CatalogoPatronesDise-o\GestionLogistica\Test\bin\Debug\netcoreapp3.1\GestionLogistica.dll
+C:\Users\jack.parra\Documents\Jack\Code\CatalogoPatronesDise-o\GestionLogistica\Test\bin\Debug\netcoreapp3.1\GestionLogistica.pdb

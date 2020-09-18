@@ -1,0 +1,13 @@
+C:\Users\jack.parra\Documents\Jack\Code\CatalogoPatronesDise-o\GestionLogistica\GestionLogistica\bin\Debug\netcoreapp3.1\GestionLogistica.exe
+C:\Users\jack.parra\Documents\Jack\Code\CatalogoPatronesDise-o\GestionLogistica\GestionLogistica\bin\Debug\netcoreapp3.1\GestionLogistica.deps.json
+C:\Users\jack.parra\Documents\Jack\Code\CatalogoPatronesDise-o\GestionLogistica\GestionLogistica\bin\Debug\netcoreapp3.1\GestionLogistica.runtimeconfig.json
+C:\Users\jack.parra\Documents\Jack\Code\CatalogoPatronesDise-o\GestionLogistica\GestionLogistica\bin\Debug\netcoreapp3.1\GestionLogistica.runtimeconfig.dev.json
+C:\Users\jack.parra\Documents\Jack\Code\CatalogoPatronesDise-o\GestionLogistica\GestionLogistica\bin\Debug\netcoreapp3.1\GestionLogistica.dll
+C:\Users\jack.parra\Documents\Jack\Code\CatalogoPatronesDise-o\GestionLogistica\GestionLogistica\bin\Debug\netcoreapp3.1\GestionLogistica.pdb
+C:\Users\jack.parra\Documents\Jack\Code\CatalogoPatronesDise-o\GestionLogistica\GestionLogistica\obj\Debug\netcoreapp3.1\GestionLogistica.csprojAssemblyReference.cache
+C:\Users\jack.parra\Documents\Jack\Code\CatalogoPatronesDise-o\GestionLogistica\GestionLogistica\obj\Debug\netcoreapp3.1\GestionLogistica.AssemblyInfoInputs.cache
+C:\Users\jack.parra\Documents\Jack\Code\CatalogoPatronesDise-o\GestionLogistica\GestionLogistica\obj\Debug\netcoreapp3.1\GestionLogistica.AssemblyInfo.cs
+C:\Users\jack.parra\Documents\Jack\Code\CatalogoPatronesDise-o\GestionLogistica\GestionLogistica\obj\Debug\netcoreapp3.1\GestionLogistica.csproj.CoreCompileInputs.cache
+C:\Users\jack.parra\Documents\Jack\Code\CatalogoPatronesDise-o\GestionLogistica\GestionLogistica\obj\Debug\netcoreapp3.1\GestionLogistica.dll
+C:\Users\jack.parra\Documents\Jack\Code\CatalogoPatronesDise-o\GestionLogistica\GestionLogistica\obj\Debug\netcoreapp3.1\GestionLogistica.pdb
+C:\Users\jack.parra\Documents\Jack\Code\CatalogoPatronesDise-o\GestionLogistica\GestionLogistica\obj\Debug\netcoreapp3.1\GestionLogistica.genruntimeconfig.cache
