@@ -29,7 +29,7 @@ namespace Test
 
         private Camion CrearCamion()
         {
-            return new Camion();
+            return new Camion(true);
         }
     }
 }

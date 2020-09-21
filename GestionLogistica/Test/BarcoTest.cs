@@ -29,7 +29,7 @@ namespace Test
 
         private Barco CrearBarco()
         {
-            return new Barco();
+            return new Barco(true);
         }
     }
 }
