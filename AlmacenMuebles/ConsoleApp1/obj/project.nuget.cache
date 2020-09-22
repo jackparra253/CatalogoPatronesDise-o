@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uEG3Ws8uc7Rihc9KTZbUi0WQR4j0PbliBM0318QhZteE5rxiyARFlYq3vyZuHUw3he2SQc+JHfQf+FRwrORIow==",
+  "dgSpecHash": "cCBuF1Uh1reAs8//BffHsY6+weutwDYnUe6X2EQoeoDswKWGMMoH8Ati7Jv34DVlrjdpA5pFKJvcLC8pHGDE1g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jack.parra\\Documents\\Jack\\Code\\CatalogoPatronesDise-o\\AlmacenMuebles\\ConsoleApp1\\ConsoleApp1.csproj",
+  "projectFilePath": "C:\\Users\\jack.parra\\Documents\\Jack\\Code\\CatalogoPatronesDise-o\\AlmacenMuebles\\ConsoleApp1\\AlmacenMuebles.Dominio.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

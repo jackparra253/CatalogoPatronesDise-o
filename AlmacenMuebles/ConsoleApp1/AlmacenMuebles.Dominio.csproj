@@ -3,6 +3,8 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
+    <AssemblyName>AlmacenMuebles.Dominio</AssemblyName>
+    <RootNamespace>AlmacenMuebles.Dominio</RootNamespace>
   </PropertyGroup>
 
 </Project>

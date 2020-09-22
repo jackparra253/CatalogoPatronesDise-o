@@ -8,7 +8,7 @@
       "version": "1.0.0",
       "restore": {
         "projectUniqueName": "C:\\Users\\jack.parra\\Documents\\Jack\\Code\\CatalogoPatronesDise-o\\AlmacenMuebles\\ConsoleApp1\\ConsoleApp1.csproj",
-        "projectName": "ConsoleApp1",
+        "projectName": "AlmacenMuebles.Dominio",
         "projectPath": "C:\\Users\\jack.parra\\Documents\\Jack\\Code\\CatalogoPatronesDise-o\\AlmacenMuebles\\ConsoleApp1\\ConsoleApp1.csproj",
         "packagesPath": "C:\\Users\\jack.parra\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\jack.parra\\Documents\\Jack\\Code\\CatalogoPatronesDise-o\\AlmacenMuebles\\ConsoleApp1\\obj\\",
