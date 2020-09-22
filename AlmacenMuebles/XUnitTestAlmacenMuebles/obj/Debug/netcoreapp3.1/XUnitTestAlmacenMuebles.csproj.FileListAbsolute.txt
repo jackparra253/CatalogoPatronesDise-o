@@ -94,3 +94,6 @@ C:\Users\jack.parra\Documents\Jack\Code\CatalogoPatronesDise-o\AlmacenMuebles\XU
 C:\Users\jack.parra\Documents\Jack\Code\CatalogoPatronesDise-o\AlmacenMuebles\XUnitTestAlmacenMuebles\obj\Debug\netcoreapp3.1\XUnitTestAlmacenMuebles.dll
 C:\Users\jack.parra\Documents\Jack\Code\CatalogoPatronesDise-o\AlmacenMuebles\XUnitTestAlmacenMuebles\obj\Debug\netcoreapp3.1\XUnitTestAlmacenMuebles.pdb
 C:\Users\jack.parra\Documents\Jack\Code\CatalogoPatronesDise-o\AlmacenMuebles\XUnitTestAlmacenMuebles\obj\Debug\netcoreapp3.1\XUnitTestAlmacenMuebles.genruntimeconfig.cache
+C:\Users\jack.parra\Documents\Jack\Code\CatalogoPatronesDise-o\AlmacenMuebles\XUnitTestAlmacenMuebles\bin\Debug\netcoreapp3.1\AlmacenMuebles.Dominio.exe
+C:\Users\jack.parra\Documents\Jack\Code\CatalogoPatronesDise-o\AlmacenMuebles\XUnitTestAlmacenMuebles\bin\Debug\netcoreapp3.1\AlmacenMuebles.Dominio.dll
+C:\Users\jack.parra\Documents\Jack\Code\CatalogoPatronesDise-o\AlmacenMuebles\XUnitTestAlmacenMuebles\bin\Debug\netcoreapp3.1\AlmacenMuebles.Dominio.pdb
