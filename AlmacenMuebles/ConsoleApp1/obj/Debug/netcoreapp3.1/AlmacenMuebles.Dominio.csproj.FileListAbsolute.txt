@@ -10,3 +10,4 @@ C:\Users\jack.parra\Documents\Jack\Code\CatalogoPatronesDise-o\AlmacenMuebles\Co
 C:\Users\jack.parra\Documents\Jack\Code\CatalogoPatronesDise-o\AlmacenMuebles\ConsoleApp1\obj\Debug\netcoreapp3.1\AlmacenMuebles.Dominio.dll
 C:\Users\jack.parra\Documents\Jack\Code\CatalogoPatronesDise-o\AlmacenMuebles\ConsoleApp1\obj\Debug\netcoreapp3.1\AlmacenMuebles.Dominio.pdb
 C:\Users\jack.parra\Documents\Jack\Code\CatalogoPatronesDise-o\AlmacenMuebles\ConsoleApp1\obj\Debug\netcoreapp3.1\AlmacenMuebles.Dominio.genruntimeconfig.cache
+C:\Users\jack.parra\Documents\Jack\Code\CatalogoPatronesDise-o\AlmacenMuebles\ConsoleApp1\obj\Debug\netcoreapp3.1\AlmacenMuebles.Dominio.csprojAssemblyReference.cache

@@ -1,17 +1,22 @@
 ﻿namespace AlmacenMuebles.Dominio
 {
-    public class SillaModerna : ISilla
+    public class SillaVictoriana: ISilla
     {
-        public SillaModerna(int cantidadPatas)
+        public SillaVictoriana()
         {
             Clase = ClasesMuebles.SILLA;
-            Tipo = ClasesMuebles.MODERNA;
-            CantidadPatas = cantidadPatas;
+            Tipo = ClasesMuebles.VICTORIANA;
+            CantidadPatas = 4;
         }
 
         public string Clase { get; private set; }
         public string Tipo { get; private set; }
         public int CantidadPatas { get; private set; }
+
+        public int ObtenerCantidadPatas()
+        {
+            return CantidadPatas;
+        }
 
         public string ObtenerClase()
         {
@@ -21,11 +26,6 @@
         public string ObtenerTipo()
         {
             return Tipo;
-        }
-
-        public int ObtenerCantidadPatas()
-        {
-            return CantidadPatas;
         }
     }
 }
