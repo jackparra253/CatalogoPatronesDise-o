@@ -2,6 +2,10 @@
 {
     public class SillaModerna : ISilla
     {
+        public SillaModerna()
+        {
+        }
+
         public SillaModerna(int cantidadPatas)
         {
             Clase = ClasesMuebles.SILLA;
@@ -13,19 +17,9 @@
         public string Tipo { get; private set; }
         public int CantidadPatas { get; private set; }
 
-        public string ObtenerClase()
+        public bool TienePatas()
         {
-            return Clase;
-        }
-
-        public string ObtenerTipo()
-        {
-            return Tipo;
-        }
-
-        public int ObtenerCantidadPatas()
-        {
-            return CantidadPatas;
+            return CantidadPatas > 0;
         }
     }
 }

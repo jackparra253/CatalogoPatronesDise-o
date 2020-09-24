@@ -5,9 +5,6 @@
         int CantidadPatas { get; }
         string Clase { get; }
         string Tipo { get; }
-
-        int ObtenerCantidadPatas();
-        string ObtenerClase();
-        string ObtenerTipo();
+        bool TienePatas();
     }
 }

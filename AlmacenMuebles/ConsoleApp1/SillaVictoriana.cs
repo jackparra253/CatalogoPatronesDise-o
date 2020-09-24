@@ -13,19 +13,9 @@
         public string Tipo { get; private set; }
         public int CantidadPatas { get; private set; }
 
-        public int ObtenerCantidadPatas()
+        public bool TienePatas()
         {
-            return CantidadPatas;
-        }
-
-        public string ObtenerClase()
-        {
-            return Clase;
-        }
-
-        public string ObtenerTipo()
-        {
-            return Tipo;
+            return true;
         }
     }
 }
