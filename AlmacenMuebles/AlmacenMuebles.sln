@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlmacenMuebles.Dominio", "ConsoleApp1\AlmacenMuebles.Dominio.csproj", "{25456545-1E98-4C4F-B0BE-ED363F6D0238}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XUnitTestAlmacenMuebles", "XUnitTestAlmacenMuebles\XUnitTestAlmacenMuebles.csproj", "{5C00C0F5-68DC-4586-84C1-4AB604EB3057}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{25456545-1E98-4C4F-B0BE-ED363F6D0238}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25456545-1E98-4C4F-B0BE-ED363F6D0238}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25456545-1E98-4C4F-B0BE-ED363F6D0238}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25456545-1E98-4C4F-B0BE-ED363F6D0238}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C00C0F5-68DC-4586-84C1-4AB604EB3057}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C00C0F5-68DC-4586-84C1-4AB604EB3057}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C00C0F5-68DC-4586-84C1-4AB604EB3057}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C00C0F5-68DC-4586-84C1-4AB604EB3057}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {43B8F760-FF07-400F-810E-2B1FE199D326}
+	EndGlobalSection
+EndGlobal
