@@ -1,12 +1,10 @@
-﻿using System;
-
-namespace AlmacenMuebles.Dominio
+﻿namespace AlmacenMuebles.Dominio
 {
-    class Program
+    internal class Program
     {
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            new Cliente().Main();   
         }
     }
 }
