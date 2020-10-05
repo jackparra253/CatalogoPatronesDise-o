@@ -1,4 +1,4 @@
-﻿namespace AutomotiveIndustry.Domain
+﻿namespace AutomotiveIndustry.Domain.Builders
 {
     public class CarBuilder : IBuilder
     {
