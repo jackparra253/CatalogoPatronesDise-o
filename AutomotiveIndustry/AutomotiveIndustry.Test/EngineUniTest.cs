@@ -1,5 +1,5 @@
+using AutomotiveIndustry.Domain.Components;
 using System;
-using AutomotiveIndustry.Domain;
 using Xunit;
 
 namespace AutomotiveIndustry.Test

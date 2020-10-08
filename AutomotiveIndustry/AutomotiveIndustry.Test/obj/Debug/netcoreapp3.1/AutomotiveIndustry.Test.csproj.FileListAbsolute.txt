@@ -94,3 +94,6 @@ c:\Users\jack.parra\Documents\Jack\Code\CatalogoPatronesDise-o\AutomotiveIndustr
 c:\Users\jack.parra\Documents\Jack\Code\CatalogoPatronesDise-o\AutomotiveIndustry\AutomotiveIndustry.Test\obj\Debug\netcoreapp3.1\AutomotiveIndustry.Test.dll
 c:\Users\jack.parra\Documents\Jack\Code\CatalogoPatronesDise-o\AutomotiveIndustry\AutomotiveIndustry.Test\obj\Debug\netcoreapp3.1\AutomotiveIndustry.Test.pdb
 c:\Users\jack.parra\Documents\Jack\Code\CatalogoPatronesDise-o\AutomotiveIndustry\AutomotiveIndustry.Test\obj\Debug\netcoreapp3.1\AutomotiveIndustry.Test.genruntimeconfig.cache
+C:\Users\jack.parra\Documents\Jack\Code\CatalogoPatronesDise-o\AutomotiveIndustry\AutomotiveIndustry.Test\bin\Debug\netcoreapp3.1\AutomotiveIndustry.Domain.exe
+C:\Users\jack.parra\Documents\Jack\Code\CatalogoPatronesDise-o\AutomotiveIndustry\AutomotiveIndustry.Test\bin\Debug\netcoreapp3.1\AutomotiveIndustry.Domain.dll
+C:\Users\jack.parra\Documents\Jack\Code\CatalogoPatronesDise-o\AutomotiveIndustry\AutomotiveIndustry.Test\bin\Debug\netcoreapp3.1\AutomotiveIndustry.Domain.pdb
