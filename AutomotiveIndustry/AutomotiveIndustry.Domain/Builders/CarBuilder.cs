@@ -1,35 +1,45 @@
-﻿namespace AutomotiveIndustry.Domain.Builders
+﻿using System;
+using AutomotiveIndustry.Domain.Cars;
+using AutomotiveIndustry.Domain.Components;
+
+namespace AutomotiveIndustry.Domain.Builders
 {
     public class CarBuilder : IBuilder
     {
-        public void GetResult()
+        private TypeCar type;
+        private int seats;
+        private Engine engine;
+        private Transmission transmission;
+        private GPSNavigator gpsNavigator;
+
+        public void SetType(Type type)
         {
-            throw new System.NotImplementedException();
+            throw new NotImplementedException();
         }
 
-        public void Reset()
+        public void SetSeats(int seats)
         {
-            throw new System.NotImplementedException();
+            throw new NotImplementedException();
         }
 
-        public void SetEngine()
+        public void SetEngine(Engine engine)
         {
-            throw new System.NotImplementedException();
+            throw new NotImplementedException();
         }
 
-        public void SetGPS()
+        public void SetTransmission(Transmission transmission)
         {
-            throw new System.NotImplementedException();
+            throw new NotImplementedException();
         }
 
-        public void SetSeats()
+        public void SetGPSNavigator(GPSNavigator gpsNavigator)
         {
-            throw new System.NotImplementedException();
+            throw new NotImplementedException();
         }
 
-        public void SetTripComputer()
+        public Car GetResult()
         {
-            throw new System.NotImplementedException();
+            return new Car(type, seats, engine, transmission, gpsNavigator);
         }
     }
 }

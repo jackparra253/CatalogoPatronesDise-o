@@ -1,12 +1,15 @@
-﻿namespace AutomotiveIndustry.Domain.Builders
+﻿using System;
+using AutomotiveIndustry.Domain.Components;
+
+namespace AutomotiveIndustry.Domain.Builders
 {
     public interface IBuilder
     {
-        void Reset();
-        void SetSeats();
-        void SetEngine();
-        void SetTripComputer();
-        void SetGPS();
-        void GetResult();
+
+        void SetType(Type type);
+        void SetSeats(int seats);
+        void SetEngine(Engine engine);
+        void SetTransmission(Transmission transmission);
+        void SetGPSNavigator(GPSNavigator gpsNavigator);
     }
 }
