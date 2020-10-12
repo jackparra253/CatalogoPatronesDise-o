@@ -1,4 +1,4 @@
-﻿using System;
+﻿using AutomotiveIndustry.Domain.Cars;
 using AutomotiveIndustry.Domain.Components;
 
 namespace AutomotiveIndustry.Domain.Builders
@@ -6,7 +6,7 @@ namespace AutomotiveIndustry.Domain.Builders
     public interface IBuilder
     {
 
-        void SetType(Type type);
+        void SetType(TypeCar typeCar);
         void SetSeats(int seats);
         void SetEngine(Engine engine);
         void SetTransmission(Transmission transmission);

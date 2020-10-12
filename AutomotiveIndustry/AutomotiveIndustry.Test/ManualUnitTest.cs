@@ -4,10 +4,10 @@ using Xunit;
 
 namespace AutomotiveIndustry.Test
 {
-    public class CarUnitTest
+    public class ManualUnitTest
     {
-        [Fact(DisplayName="Should Car new instance return a new Car")]
-        public void Car_Case_SportCar()
+        [Fact(DisplayName="Should manual new instance return a new Car")]
+        public void Manual_Case_Manual()
         {
             var sport = TypeCar.Sport;
             int seats = 2;
@@ -16,7 +16,7 @@ namespace AutomotiveIndustry.Test
             var gpsNavigator = new GPSNavigator();
             int fuel = 0;
 
-            var car = new Car(sport, seats, engine,automatic, gpsNavigator);
+            var car = new Manual(sport, seats, engine,automatic, gpsNavigator);
 
             Assert.Equal(sport, car.TypeCar);
             Assert.Equal(seats, car.Seats);

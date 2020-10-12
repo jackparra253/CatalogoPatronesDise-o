@@ -2,7 +2,7 @@
 
 namespace AutomotiveIndustry.Domain.Cars
 {
-    public class Car
+    public class Manual
     {
         public TypeCar TypeCar { get; private set; }
         public int Seats { get; private set; }
@@ -10,7 +10,7 @@ namespace AutomotiveIndustry.Domain.Cars
         public Transmission Transmission { get; private set; }
         public double Fuel { get; private set; }
 
-        public Car(TypeCar typeCar, int seats, Engine engine, Transmission transmission,
+        public Manual(TypeCar typeCar, int seats, Engine engine, Transmission transmission,
             GPSNavigator gpsNavigator)
         {
             TypeCar = typeCar;

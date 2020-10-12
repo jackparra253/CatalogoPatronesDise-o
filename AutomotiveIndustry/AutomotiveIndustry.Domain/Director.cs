@@ -16,11 +16,6 @@ namespace AutomotiveIndustry.Domain
         }
 
 
-        public void ConstructSportsCar()
-        {
-            _builder.GetResult();
-        }
-
 
 
     }

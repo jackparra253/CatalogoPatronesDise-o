@@ -6,14 +6,14 @@ namespace AutomotiveIndustry.Domain.Builders
 {
     public  class CarManualBuilder: IBuilder
     {
-        public TypeCar Type { get; private set; }
+        public TypeCar TypeCar { get; private set; }
         public int Seats { get; private set; }
         public Engine Engine { get; private set; }
         public Transmission Transmission { get; private set; }
         public double Fuel { get; private set; }
 
 
-        public void SetType(Type type)
+        public void SetType(TypeCar typeCar)
         {
             throw new NotImplementedException();
         }

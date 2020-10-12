@@ -4,7 +4,6 @@ C:\Users\jack.parra\Documents\Jack\Code\CatalogoPatronesDise-o\AutomotiveIndustr
 C:\Users\jack.parra\Documents\Jack\Code\CatalogoPatronesDise-o\AutomotiveIndustry\AutomotiveIndustry.Domain\bin\Debug\netcoreapp3.1\AutomotiveIndustry.Domain.runtimeconfig.dev.json
 C:\Users\jack.parra\Documents\Jack\Code\CatalogoPatronesDise-o\AutomotiveIndustry\AutomotiveIndustry.Domain\bin\Debug\netcoreapp3.1\AutomotiveIndustry.Domain.dll
 C:\Users\jack.parra\Documents\Jack\Code\CatalogoPatronesDise-o\AutomotiveIndustry\AutomotiveIndustry.Domain\bin\Debug\netcoreapp3.1\AutomotiveIndustry.Domain.pdb
-C:\Users\jack.parra\Documents\Jack\Code\CatalogoPatronesDise-o\AutomotiveIndustry\AutomotiveIndustry.Domain\obj\Debug\netcoreapp3.1\AutomotiveIndustry.Domain.csprojAssemblyReference.cache
 C:\Users\jack.parra\Documents\Jack\Code\CatalogoPatronesDise-o\AutomotiveIndustry\AutomotiveIndustry.Domain\obj\Debug\netcoreapp3.1\AutomotiveIndustry.Domain.AssemblyInfoInputs.cache
 C:\Users\jack.parra\Documents\Jack\Code\CatalogoPatronesDise-o\AutomotiveIndustry\AutomotiveIndustry.Domain\obj\Debug\netcoreapp3.1\AutomotiveIndustry.Domain.AssemblyInfo.cs
 C:\Users\jack.parra\Documents\Jack\Code\CatalogoPatronesDise-o\AutomotiveIndustry\AutomotiveIndustry.Domain\obj\Debug\netcoreapp3.1\AutomotiveIndustry.Domain.csproj.CoreCompileInputs.cache
