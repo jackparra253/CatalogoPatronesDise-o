@@ -8,6 +8,7 @@ namespace AutomotiveIndustry.Domain.Cars
         public int Seats { get; private set; }
         public Engine Engine { get; private set; }
         public Transmission Transmission { get; private set; }
+        public GPSNavigator GPSNavigator { get; private set; }
         public double Fuel { get; private set; }
 
         public Car(TypeCar typeCar, int seats, Engine engine, Transmission transmission,
@@ -17,6 +18,7 @@ namespace AutomotiveIndustry.Domain.Cars
             Seats = seats;
             Engine = engine;
             Transmission = transmission;
+            GPSNavigator = gpsNavigator;
             Fuel = 0;
         }
     }

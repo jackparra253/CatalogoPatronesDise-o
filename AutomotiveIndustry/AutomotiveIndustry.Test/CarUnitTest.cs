@@ -14,6 +14,7 @@ namespace AutomotiveIndustry.Test
             var engine = new Engine(10, 15);
             var automatic = Transmission.Automatic;
             var gpsNavigator = new GPSNavigator();
+            gpsNavigator.AddAutomaticRoute();
             int fuel = 0;
 
             var car = new Car(sport, seats, engine,automatic, gpsNavigator);
@@ -21,6 +22,7 @@ namespace AutomotiveIndustry.Test
             Assert.Equal(sport, car.TypeCar);
             Assert.Equal(seats, car.Seats);
             Assert.Equal(automatic, car.Transmission);
+            Assert.Equal(gpsNavigator.Route, car.GPSNavigator.Route);
             Assert.Equal(fuel, car.Fuel);
         }
     }
