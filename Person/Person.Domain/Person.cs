@@ -18,5 +18,18 @@ namespace Person.Domain
             LastName = lastName;
             IdInfo = idInfo;
         }
+
+        public Person ShallowCopy()
+        {
+            return (Person)MemberwiseClone();
+        }
+
+        public Person DeepCopy()
+        {
+            Person clone = (Person) MemberwiseClone();
+            clone.IdInfo  = new IdInfo(clone.IdInfo.IdNumber);
+            clone.Name = new String(Name);
+            return clone;
+        }
     }
 }

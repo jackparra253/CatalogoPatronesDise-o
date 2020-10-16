@@ -2,11 +2,11 @@
 {
     public class IdInfo
     {
-        public int IdNumberNumber { get; private set; }
+        public int IdNumber { get; private set; }
 
         public IdInfo(int idNumber)
         {
-            IdNumberNumber = idNumber;
+            IdNumber = idNumber;
         }
     }
 }
