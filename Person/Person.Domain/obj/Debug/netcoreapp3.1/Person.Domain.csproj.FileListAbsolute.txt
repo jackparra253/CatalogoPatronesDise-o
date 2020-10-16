@@ -1,0 +1,13 @@
+C:\Users\jack.parra\Documents\Jack\Code\CatalogoPatronesDise-o\Person\Person.Domain\bin\Debug\netcoreapp3.1\Person.Domain.exe
+C:\Users\jack.parra\Documents\Jack\Code\CatalogoPatronesDise-o\Person\Person.Domain\bin\Debug\netcoreapp3.1\Person.Domain.deps.json
+C:\Users\jack.parra\Documents\Jack\Code\CatalogoPatronesDise-o\Person\Person.Domain\bin\Debug\netcoreapp3.1\Person.Domain.runtimeconfig.json
+C:\Users\jack.parra\Documents\Jack\Code\CatalogoPatronesDise-o\Person\Person.Domain\bin\Debug\netcoreapp3.1\Person.Domain.runtimeconfig.dev.json
+C:\Users\jack.parra\Documents\Jack\Code\CatalogoPatronesDise-o\Person\Person.Domain\bin\Debug\netcoreapp3.1\Person.Domain.dll
+C:\Users\jack.parra\Documents\Jack\Code\CatalogoPatronesDise-o\Person\Person.Domain\bin\Debug\netcoreapp3.1\Person.Domain.pdb
+C:\Users\jack.parra\Documents\Jack\Code\CatalogoPatronesDise-o\Person\Person.Domain\obj\Debug\netcoreapp3.1\Person.Domain.csprojAssemblyReference.cache
+C:\Users\jack.parra\Documents\Jack\Code\CatalogoPatronesDise-o\Person\Person.Domain\obj\Debug\netcoreapp3.1\Person.Domain.AssemblyInfoInputs.cache
+C:\Users\jack.parra\Documents\Jack\Code\CatalogoPatronesDise-o\Person\Person.Domain\obj\Debug\netcoreapp3.1\Person.Domain.AssemblyInfo.cs
+C:\Users\jack.parra\Documents\Jack\Code\CatalogoPatronesDise-o\Person\Person.Domain\obj\Debug\netcoreapp3.1\Person.Domain.csproj.CoreCompileInputs.cache
+C:\Users\jack.parra\Documents\Jack\Code\CatalogoPatronesDise-o\Person\Person.Domain\obj\Debug\netcoreapp3.1\Person.Domain.dll
+C:\Users\jack.parra\Documents\Jack\Code\CatalogoPatronesDise-o\Person\Person.Domain\obj\Debug\netcoreapp3.1\Person.Domain.pdb
+C:\Users\jack.parra\Documents\Jack\Code\CatalogoPatronesDise-o\Person\Person.Domain\obj\Debug\netcoreapp3.1\Person.Domain.genruntimeconfig.cache
