@@ -901,6 +901,16 @@
         "build": {
           "build/netcoreapp1.0/xunit.runner.visualstudio.props": {}
         }
+      },
+      "ThreadSafe.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/ThreadSafe.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ThreadSafe.Domain.dll": {}
+        }
       }
     }
   },
@@ -3493,11 +3503,17 @@
         "xunit.runner.visualstudio.2.4.0.nupkg.sha512",
         "xunit.runner.visualstudio.nuspec"
       ]
+    },
+    "ThreadSafe.Domain/1.0.0": {
+      "type": "project",
+      "path": "../ThreadSafe.Domain/ThreadSafe.Domain.csproj",
+      "msbuildProject": "../ThreadSafe.Domain/ThreadSafe.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
       "Microsoft.NET.Test.Sdk >= 16.5.0",
+      "ThreadSafe.Domain >= 1.0.0",
       "coverlet.collector >= 1.2.0",
       "xunit >= 2.4.0",
       "xunit.runner.visualstudio >= 2.4.0"
@@ -3530,7 +3546,11 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\jack.parra\\Documents\\Jack\\Code\\CatalogoPatronesDise-o\\ThreadSafe\\ThreadSafe.Domain\\ThreadSafe.Domain.csproj": {
+              "projectPath": "C:\\Users\\jack.parra\\Documents\\Jack\\Code\\CatalogoPatronesDise-o\\ThreadSafe\\ThreadSafe.Domain\\ThreadSafe.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
