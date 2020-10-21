@@ -6,3 +6,4 @@ Creational Design Patterns
 2. Abstract Factory - Furniture App "AlmacenMuebles"
 3. Builder - AutomotiveIndustry
 4. Person - Prototype
+5. Singleton - ThreadSafe
