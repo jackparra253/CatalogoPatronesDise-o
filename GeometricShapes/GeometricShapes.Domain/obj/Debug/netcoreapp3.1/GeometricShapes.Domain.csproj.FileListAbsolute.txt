@@ -1,0 +1,13 @@
+C:\Users\jack.parra\Documents\Jack\Code\CatalogoPatronesDise-o\GeometricShapes\GeometricShapes.Domain\bin\Debug\netcoreapp3.1\GeometricShapes.Domain.exe
+C:\Users\jack.parra\Documents\Jack\Code\CatalogoPatronesDise-o\GeometricShapes\GeometricShapes.Domain\bin\Debug\netcoreapp3.1\GeometricShapes.Domain.deps.json
+C:\Users\jack.parra\Documents\Jack\Code\CatalogoPatronesDise-o\GeometricShapes\GeometricShapes.Domain\bin\Debug\netcoreapp3.1\GeometricShapes.Domain.runtimeconfig.json
+C:\Users\jack.parra\Documents\Jack\Code\CatalogoPatronesDise-o\GeometricShapes\GeometricShapes.Domain\bin\Debug\netcoreapp3.1\GeometricShapes.Domain.runtimeconfig.dev.json
+C:\Users\jack.parra\Documents\Jack\Code\CatalogoPatronesDise-o\GeometricShapes\GeometricShapes.Domain\bin\Debug\netcoreapp3.1\GeometricShapes.Domain.dll
+C:\Users\jack.parra\Documents\Jack\Code\CatalogoPatronesDise-o\GeometricShapes\GeometricShapes.Domain\bin\Debug\netcoreapp3.1\GeometricShapes.Domain.pdb
+C:\Users\jack.parra\Documents\Jack\Code\CatalogoPatronesDise-o\GeometricShapes\GeometricShapes.Domain\obj\Debug\netcoreapp3.1\GeometricShapes.Domain.csprojAssemblyReference.cache
+C:\Users\jack.parra\Documents\Jack\Code\CatalogoPatronesDise-o\GeometricShapes\GeometricShapes.Domain\obj\Debug\netcoreapp3.1\GeometricShapes.Domain.AssemblyInfoInputs.cache
+C:\Users\jack.parra\Documents\Jack\Code\CatalogoPatronesDise-o\GeometricShapes\GeometricShapes.Domain\obj\Debug\netcoreapp3.1\GeometricShapes.Domain.AssemblyInfo.cs
+C:\Users\jack.parra\Documents\Jack\Code\CatalogoPatronesDise-o\GeometricShapes\GeometricShapes.Domain\obj\Debug\netcoreapp3.1\GeometricShapes.Domain.csproj.CoreCompileInputs.cache
+C:\Users\jack.parra\Documents\Jack\Code\CatalogoPatronesDise-o\GeometricShapes\GeometricShapes.Domain\obj\Debug\netcoreapp3.1\GeometricShapes.Domain.dll
+C:\Users\jack.parra\Documents\Jack\Code\CatalogoPatronesDise-o\GeometricShapes\GeometricShapes.Domain\obj\Debug\netcoreapp3.1\GeometricShapes.Domain.pdb
+C:\Users\jack.parra\Documents\Jack\Code\CatalogoPatronesDise-o\GeometricShapes\GeometricShapes.Domain\obj\Debug\netcoreapp3.1\GeometricShapes.Domain.genruntimeconfig.cache
