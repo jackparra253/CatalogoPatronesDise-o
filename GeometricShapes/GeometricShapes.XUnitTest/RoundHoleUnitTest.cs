@@ -16,12 +16,16 @@ namespace GeometricShapes.XUnitTest
         }
 
 
-        [Fact(DisplayName = "")]
-        public void xxxxx()
+        [Fact(DisplayName = "Should Fits return value if or not to Round Hole")]
+        public void RoundHole_Case_Fits()
         {
+            double radius = 4;
+            var roundPeg = new RoundPeg(radius);
+            var roundHole = new RoundHole(radius);
 
+            bool fit = roundHole.Fits(roundPeg);
+
+            Assert.True(fit);
         }
-
-
     }
 }

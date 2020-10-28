@@ -8,5 +8,10 @@
         }
 
         public double Radius { get; private set; }
+
+        public bool Fits(RoundPeg roundPeg)
+        {
+            return Radius == roundPeg.Radius;
+        }
     }
 }
