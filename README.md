@@ -7,3 +7,7 @@ Creational Design Patterns
 3. Builder - AutomotiveIndustry
 4. Person - Prototype
 5. Singleton - ThreadSafe
+
+Structural Design Patterns
+
+6. Adapter GeometricShapes
