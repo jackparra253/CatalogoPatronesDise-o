@@ -2,7 +2,7 @@
 {
     public class RoundPeg
     {
-        public RoundPeg(in double radius)
+        public RoundPeg(double radius)
         {
             Radius = radius;
         }
