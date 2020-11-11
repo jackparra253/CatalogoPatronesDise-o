@@ -11,3 +11,4 @@ Creational Design Patterns
 Structural Design Patterns
 
 6. Adapter GeometricShapes
+7. Bridge Devices

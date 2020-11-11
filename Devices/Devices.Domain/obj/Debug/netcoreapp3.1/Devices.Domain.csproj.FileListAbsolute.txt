@@ -1,0 +1,13 @@
+C:\Users\jack.parra\source\repos\Devices\Devices.Domain\bin\Debug\netcoreapp3.1\Devices.Domain.exe
+C:\Users\jack.parra\source\repos\Devices\Devices.Domain\bin\Debug\netcoreapp3.1\Devices.Domain.deps.json
+C:\Users\jack.parra\source\repos\Devices\Devices.Domain\bin\Debug\netcoreapp3.1\Devices.Domain.runtimeconfig.json
+C:\Users\jack.parra\source\repos\Devices\Devices.Domain\bin\Debug\netcoreapp3.1\Devices.Domain.runtimeconfig.dev.json
+C:\Users\jack.parra\source\repos\Devices\Devices.Domain\bin\Debug\netcoreapp3.1\Devices.Domain.dll
+C:\Users\jack.parra\source\repos\Devices\Devices.Domain\bin\Debug\netcoreapp3.1\Devices.Domain.pdb
+C:\Users\jack.parra\source\repos\Devices\Devices.Domain\obj\Debug\netcoreapp3.1\Devices.Domain.csprojAssemblyReference.cache
+C:\Users\jack.parra\source\repos\Devices\Devices.Domain\obj\Debug\netcoreapp3.1\Devices.Domain.AssemblyInfoInputs.cache
+C:\Users\jack.parra\source\repos\Devices\Devices.Domain\obj\Debug\netcoreapp3.1\Devices.Domain.AssemblyInfo.cs
+C:\Users\jack.parra\source\repos\Devices\Devices.Domain\obj\Debug\netcoreapp3.1\Devices.Domain.csproj.CoreCompileInputs.cache
+C:\Users\jack.parra\source\repos\Devices\Devices.Domain\obj\Debug\netcoreapp3.1\Devices.Domain.dll
+C:\Users\jack.parra\source\repos\Devices\Devices.Domain\obj\Debug\netcoreapp3.1\Devices.Domain.pdb
+C:\Users\jack.parra\source\repos\Devices\Devices.Domain\obj\Debug\netcoreapp3.1\Devices.Domain.genruntimeconfig.cache
