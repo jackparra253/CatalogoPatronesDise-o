@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tiRErSGfxX0LmR4USO98o0DGXq6NhXH5xeTbQkPCkG658w4MJvIOgQq8uLBTLs2CeErqAGhY96mN3COvJxqDrg==",
+  "dgSpecHash": "KtI3D5Zg76H+ntSuq7XeS0sp3AaajTC+dM1rK43kb66eI9hi5oELdsT56D2XEJrl47i0elca5AiyHJFNYeSySA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jack.parra\\source\\repos\\Devices\\Devices.Test\\Devices.Test.csproj",
+  "projectFilePath": "C:\\Users\\jack.parra\\Documents\\Jack\\Code\\CatalogoPatronesDise-o\\Devices\\Devices.Test\\Devices.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jack.parra\\.nuget\\packages\\coverlet.collector\\1.2.0\\coverlet.collector.1.2.0.nupkg.sha512",
     "C:\\Users\\jack.parra\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",

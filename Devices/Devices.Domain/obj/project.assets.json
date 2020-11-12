@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jack.parra\\source\\repos\\Devices\\Devices.Domain\\Devices.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\jack.parra\\Documents\\Jack\\Code\\CatalogoPatronesDise-o\\Devices\\Devices.Domain\\Devices.Domain.csproj",
       "projectName": "Devices.Domain",
-      "projectPath": "C:\\Users\\jack.parra\\source\\repos\\Devices\\Devices.Domain\\Devices.Domain.csproj",
+      "projectPath": "C:\\Users\\jack.parra\\Documents\\Jack\\Code\\CatalogoPatronesDise-o\\Devices\\Devices.Domain\\Devices.Domain.csproj",
       "packagesPath": "C:\\Users\\jack.parra\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jack.parra\\source\\repos\\Devices\\Devices.Domain\\obj\\",
+      "outputPath": "C:\\Users\\jack.parra\\Documents\\Jack\\Code\\CatalogoPatronesDise-o\\Devices\\Devices.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jack.parra\\AppData\\Roaming\\NuGet\\NuGet.Config",

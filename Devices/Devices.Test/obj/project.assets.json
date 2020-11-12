@@ -3525,11 +3525,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jack.parra\\source\\repos\\Devices\\Devices.Test\\Devices.Test.csproj",
+      "projectUniqueName": "C:\\Users\\jack.parra\\Documents\\Jack\\Code\\CatalogoPatronesDise-o\\Devices\\Devices.Test\\Devices.Test.csproj",
       "projectName": "Devices.Test",
-      "projectPath": "C:\\Users\\jack.parra\\source\\repos\\Devices\\Devices.Test\\Devices.Test.csproj",
+      "projectPath": "C:\\Users\\jack.parra\\Documents\\Jack\\Code\\CatalogoPatronesDise-o\\Devices\\Devices.Test\\Devices.Test.csproj",
       "packagesPath": "C:\\Users\\jack.parra\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jack.parra\\source\\repos\\Devices\\Devices.Test\\obj\\",
+      "outputPath": "C:\\Users\\jack.parra\\Documents\\Jack\\Code\\CatalogoPatronesDise-o\\Devices\\Devices.Test\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jack.parra\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3547,8 +3547,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\jack.parra\\source\\repos\\Devices\\Devices.Domain\\Devices.Domain.csproj": {
-              "projectPath": "C:\\Users\\jack.parra\\source\\repos\\Devices\\Devices.Domain\\Devices.Domain.csproj"
+            "C:\\Users\\jack.parra\\Documents\\Jack\\Code\\CatalogoPatronesDise-o\\Devices\\Devices.Domain\\Devices.Domain.csproj": {
+              "projectPath": "C:\\Users\\jack.parra\\Documents\\Jack\\Code\\CatalogoPatronesDise-o\\Devices\\Devices.Domain\\Devices.Domain.csproj"
             }
           }
         }

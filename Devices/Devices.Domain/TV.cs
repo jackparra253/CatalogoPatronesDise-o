@@ -1,7 +1,11 @@
+using System;
+
 namespace Devices.Domain
 {
     public class TV
     {
+        private int _volume;
+
         public TV(int volume, int channel)
         {
             On = false;
@@ -9,8 +13,32 @@ namespace Devices.Domain
             Channel = channel;
         }
 
+        private int ValidateLevelVolume(int volume)
+        {
+            if (volume <= 0)
+                return 0;
+
+            if (volume >= 100)
+                return 100;
+
+            return volume;
+        }
+
         public bool On { get; private set; }
-        public int Volume { get; private set; }
+
+        public int Volume
+        {
+            get
+            {
+                return _volume;
+            }
+
+            private set
+            {
+                _volume = ValidateLevelVolume(value);
+            }
+        }
+
         public int Channel { get; private set; }
 
         public bool IsEnabled()

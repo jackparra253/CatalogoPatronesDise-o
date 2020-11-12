@@ -19,10 +19,11 @@ namespace Devices.Test
             Assert.Equal(channel, tv.Channel);
         }
 
-        [Fact, Description("Should IsEnabled return On value")]
+        [Fact, Description("Should IsEnabled return On value when tv is enable")]
         public void TV_Case_IsEnabled()
         {
             var tv = new TV(10, 15);
+            tv.Enable();
 
             bool isEnabled = tv.IsEnabled();
 
@@ -49,6 +50,24 @@ namespace Devices.Test
 
             Assert.False(tv.On);
         }
+
+        [Fact, Description("Should volume if value is minor than or equal to zero return 0")]
+        public void Radio_Case_VolumeMinorEqualZero()
+        {
+            var tv = new TV(-1, 2);
+
+            Assert.Equal(0, tv.Volume);
+        }
+
+        [Fact, Description("Should volume if value is  greater than or equal or equal to 100 return 100")]
+        public void Radio_Case_Volume()
+        {
+            var tv = new TV(101, 2);
+
+            Assert.Equal(100, tv.Volume);
+        }
+
+
 
     }
 }
