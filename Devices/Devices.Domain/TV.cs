@@ -1,8 +1,6 @@
-using System;
-
 namespace Devices.Domain
 {
-    public class TV
+    public class TV: Device
     {
         private int _volume;
 
