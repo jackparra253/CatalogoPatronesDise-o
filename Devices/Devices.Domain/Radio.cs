@@ -1,6 +1,6 @@
-namespace Devices.Test
+namespace Devices.Domain
 {
-    public class Radio
+    public class Radio: Device
     {
         public Radio(int volume, int channel)
         {
@@ -12,5 +12,20 @@ namespace Devices.Test
         public int Volume { get; private set; }
         public int Channel { get; private set; }
         public bool On { get; private set; }
+
+        public void Disable()
+        {
+            On = false;
+        }
+
+        public void Enable()
+        {
+            On = true;
+        }
+
+        public bool IsEnabled()
+        {
+            return On;
+        }
     }
 }

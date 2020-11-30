@@ -24,3 +24,16 @@ C:\Users\jack.parra\Documents\Jack\Code\CatalogoPatronesDise-o\Devices\Devices.D
 C:\Users\jack.parra\Documents\Jack\Code\CatalogoPatronesDise-o\Devices\Devices.Domain\obj\Debug\netcoreapp3.1\Devices.Domain.dll
 C:\Users\jack.parra\Documents\Jack\Code\CatalogoPatronesDise-o\Devices\Devices.Domain\obj\Debug\netcoreapp3.1\Devices.Domain.pdb
 C:\Users\jack.parra\Documents\Jack\Code\CatalogoPatronesDise-o\Devices\Devices.Domain\obj\Debug\netcoreapp3.1\Devices.Domain.genruntimeconfig.cache
+C:\CodeJack\CatalogoPatronesDise-o\Devices\Devices.Domain\bin\Debug\netcoreapp3.1\Devices.Domain.exe
+C:\CodeJack\CatalogoPatronesDise-o\Devices\Devices.Domain\bin\Debug\netcoreapp3.1\Devices.Domain.deps.json
+C:\CodeJack\CatalogoPatronesDise-o\Devices\Devices.Domain\bin\Debug\netcoreapp3.1\Devices.Domain.runtimeconfig.json
+C:\CodeJack\CatalogoPatronesDise-o\Devices\Devices.Domain\bin\Debug\netcoreapp3.1\Devices.Domain.runtimeconfig.dev.json
+C:\CodeJack\CatalogoPatronesDise-o\Devices\Devices.Domain\bin\Debug\netcoreapp3.1\Devices.Domain.dll
+C:\CodeJack\CatalogoPatronesDise-o\Devices\Devices.Domain\bin\Debug\netcoreapp3.1\Devices.Domain.pdb
+C:\CodeJack\CatalogoPatronesDise-o\Devices\Devices.Domain\obj\Debug\netcoreapp3.1\Devices.Domain.csprojAssemblyReference.cache
+C:\CodeJack\CatalogoPatronesDise-o\Devices\Devices.Domain\obj\Debug\netcoreapp3.1\Devices.Domain.AssemblyInfoInputs.cache
+C:\CodeJack\CatalogoPatronesDise-o\Devices\Devices.Domain\obj\Debug\netcoreapp3.1\Devices.Domain.AssemblyInfo.cs
+C:\CodeJack\CatalogoPatronesDise-o\Devices\Devices.Domain\obj\Debug\netcoreapp3.1\Devices.Domain.csproj.CoreCompileInputs.cache
+C:\CodeJack\CatalogoPatronesDise-o\Devices\Devices.Domain\obj\Debug\netcoreapp3.1\Devices.Domain.dll
+C:\CodeJack\CatalogoPatronesDise-o\Devices\Devices.Domain\obj\Debug\netcoreapp3.1\Devices.Domain.pdb
+C:\CodeJack\CatalogoPatronesDise-o\Devices\Devices.Domain\obj\Debug\netcoreapp3.1\Devices.Domain.genruntimeconfig.cache

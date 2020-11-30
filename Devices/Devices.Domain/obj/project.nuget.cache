@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "46jk1IV9WdCDT8oqgeNZZFSKKXKfAFyBzJ9L8REzgeIFQLKzKL7VXL5S196MjKvICI2FZaJKOyXL3KYq1Ft9gA==",
+  "dgSpecHash": "Vkcy3GFvrytY5usU9ys3l/fzrIiDomsB6b/cyYrIK476moU9mse9OsYOfTQ1sSuVFl55Z2LnixDiBz/ayOn4nA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jack.parra\\Documents\\Jack\\Code\\CatalogoPatronesDise-o\\Devices\\Devices.Domain\\Devices.Domain.csproj",
+  "projectFilePath": "C:\\CodeJack\\CatalogoPatronesDise-o\\Devices\\Devices.Domain\\Devices.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

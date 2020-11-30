@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jack.parra\\Documents\\Jack\\Code\\CatalogoPatronesDise-o\\Devices\\Devices.Test\\Devices.Test.csproj": {}
+    "C:\\CodeJack\\CatalogoPatronesDise-o\\Devices\\Devices.Test\\Devices.Test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jack.parra\\Documents\\Jack\\Code\\CatalogoPatronesDise-o\\Devices\\Devices.Domain\\Devices.Domain.csproj": {
+    "C:\\CodeJack\\CatalogoPatronesDise-o\\Devices\\Devices.Domain\\Devices.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jack.parra\\Documents\\Jack\\Code\\CatalogoPatronesDise-o\\Devices\\Devices.Domain\\Devices.Domain.csproj",
+        "projectUniqueName": "C:\\CodeJack\\CatalogoPatronesDise-o\\Devices\\Devices.Domain\\Devices.Domain.csproj",
         "projectName": "Devices.Domain",
-        "projectPath": "C:\\Users\\jack.parra\\Documents\\Jack\\Code\\CatalogoPatronesDise-o\\Devices\\Devices.Domain\\Devices.Domain.csproj",
-        "packagesPath": "C:\\Users\\jack.parra\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jack.parra\\Documents\\Jack\\Code\\CatalogoPatronesDise-o\\Devices\\Devices.Domain\\obj\\",
+        "projectPath": "C:\\CodeJack\\CatalogoPatronesDise-o\\Devices\\Devices.Domain\\Devices.Domain.csproj",
+        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+        "outputPath": "C:\\CodeJack\\CatalogoPatronesDise-o\\Devices\\Devices.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\jack.parra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,12 +22,11 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://fuji.sincoerp.com/SincoERP/_packaging/ERP4.0/nuget/v3/index.json": {},
-          "https://fuji.sincoerp.com/SincoERP/_packaging/GTHFenix/nuget/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -39,6 +38,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -54,21 +54,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\jack.parra\\Documents\\Jack\\Code\\CatalogoPatronesDise-o\\Devices\\Devices.Test\\Devices.Test.csproj": {
+    "C:\\CodeJack\\CatalogoPatronesDise-o\\Devices\\Devices.Test\\Devices.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jack.parra\\Documents\\Jack\\Code\\CatalogoPatronesDise-o\\Devices\\Devices.Test\\Devices.Test.csproj",
+        "projectUniqueName": "C:\\CodeJack\\CatalogoPatronesDise-o\\Devices\\Devices.Test\\Devices.Test.csproj",
         "projectName": "Devices.Test",
-        "projectPath": "C:\\Users\\jack.parra\\Documents\\Jack\\Code\\CatalogoPatronesDise-o\\Devices\\Devices.Test\\Devices.Test.csproj",
-        "packagesPath": "C:\\Users\\jack.parra\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jack.parra\\Documents\\Jack\\Code\\CatalogoPatronesDise-o\\Devices\\Devices.Test\\obj\\",
+        "projectPath": "C:\\CodeJack\\CatalogoPatronesDise-o\\Devices\\Devices.Test\\Devices.Test.csproj",
+        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+        "outputPath": "C:\\CodeJack\\CatalogoPatronesDise-o\\Devices\\Devices.Test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\jack.parra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -76,15 +76,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://fuji.sincoerp.com/SincoERP/_packaging/ERP4.0/nuget/v3/index.json": {},
-          "https://fuji.sincoerp.com/SincoERP/_packaging/GTHFenix/nuget/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\jack.parra\\Documents\\Jack\\Code\\CatalogoPatronesDise-o\\Devices\\Devices.Domain\\Devices.Domain.csproj": {
-                "projectPath": "C:\\Users\\jack.parra\\Documents\\Jack\\Code\\CatalogoPatronesDise-o\\Devices\\Devices.Domain\\Devices.Domain.csproj"
+              "C:\\CodeJack\\CatalogoPatronesDise-o\\Devices\\Devices.Domain\\Devices.Domain.csproj": {
+                "projectPath": "C:\\CodeJack\\CatalogoPatronesDise-o\\Devices\\Devices.Domain\\Devices.Domain.csproj"
               }
             }
           }
@@ -97,6 +96,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
@@ -130,7 +130,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
