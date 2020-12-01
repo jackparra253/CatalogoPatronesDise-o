@@ -57,5 +57,13 @@ namespace Devices.Test
 
             Assert.Equal(0, radio.Volume);
         }
+
+        [Fact, Description("Should volume if value is  greater than or equal or equal to 100 return 100")]
+        public void Radio_Case_Volume()
+        {
+            var tv = new Radio(101, 2);
+
+            Assert.Equal(100, tv.Volume);
+        }
     }
 }

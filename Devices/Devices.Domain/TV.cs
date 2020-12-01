@@ -11,16 +11,6 @@ namespace Devices.Domain
             Channel = channel;
         }
 
-        private int ValidateLevelVolume(int volume)
-        {
-            if (volume <= 0)
-                return 0;
-
-            if (volume >= 100)
-                return 100;
-
-            return volume;
-        }
 
         public bool On { get; private set; }
 
@@ -35,6 +25,17 @@ namespace Devices.Domain
             {
                 _volume = ValidateLevelVolume(value);
             }
+        }
+
+        private int ValidateLevelVolume(int volume)
+        {
+            if (volume <= 0)
+                return 0;
+
+            if (volume >= 100)
+                return 100;
+
+            return volume;
         }
 
         public int Channel { get; private set; }

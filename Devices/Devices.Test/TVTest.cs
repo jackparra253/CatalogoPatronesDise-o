@@ -66,8 +66,5 @@ namespace Devices.Test
 
             Assert.Equal(100, tv.Volume);
         }
-
-
-
     }
 }
