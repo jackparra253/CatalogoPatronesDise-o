@@ -1,6 +1,6 @@
 namespace Devices.Domain
 {
-    public class Radio: Device
+    public class Radio: IDevice
     {
         private int _volume;
 
@@ -50,6 +50,26 @@ namespace Devices.Domain
         public bool IsEnabled()
         {
             return On;
+        }
+
+        public void SetVolume(int volume)
+        {
+            Volume = ValidateVolume(volume);
+        }
+
+        public void SetChannel(int channel)
+        {
+            Channel = channel;
+        }
+
+        public int GetVolume()
+        {
+            return Volume;
+        }
+
+        public int GetChannel()
+        {
+            return Channel;
         }
     }
 }
