@@ -56,6 +56,12 @@ namespace Devices.Domain
 
         public void SetVolume(int volume)
         {
+            if (volume == 0)
+            {
+                Volume = 0;
+                return;
+            }
+
             Volume += volume;
             ValidateLevelVolume();
         }

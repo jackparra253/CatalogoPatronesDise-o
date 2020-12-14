@@ -1,5 +1,4 @@
 ﻿using Devices.Domain;
-using System;
 
 namespace Devices.Test
 {
