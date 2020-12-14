@@ -54,12 +54,28 @@ namespace Devices.Domain
 
         public void SetVolume(int volume)
         {
-            Volume = ValidateVolume(volume);
+            Volume += volume;
+            ValidateLevelVolume();
+        }
+
+        private void ValidateLevelVolume()
+        {
+            if (Volume <= 0)
+                Volume = 0;
+
+            if (Volume >= 100)
+                Volume = 100;
         }
 
         public void SetChannel(int channel)
         {
-            Channel = channel;
+            if (Channel == 100)
+                return;
+
+            if (Channel == 1 && channel == -1)
+                return;
+
+            Channel += channel;
         }
 
         public int GetVolume()
