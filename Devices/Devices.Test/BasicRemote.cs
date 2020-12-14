@@ -26,5 +26,15 @@ namespace Devices.Test
         {
             _device.SetVolume(10);
         }
+
+        public void ChannelUp()
+        {
+            _device.SetChannel(1);
+        }
+
+        public void ChannelDown()
+        {
+            _device.SetChannel(-1);
+        }
     }
 }

@@ -56,25 +56,6 @@ namespace Devices.Domain
 
         public void SetVolume(int volume)
         {
-            if (volume > 0)
-                PlusVolume(volume);
-            else
-                SubtractVolume(volume);
-        }
-
-        public void SetChannel(int channel)
-        {
-            Channel = channel;          
-        }
-
-        private void PlusVolume(int volume)
-        {
-            Volume += volume;
-            ValidateLevelVolume();
-        }
-
-        private void SubtractVolume(int volume)
-        {
             Volume += volume;
             ValidateLevelVolume();
         }
@@ -86,6 +67,17 @@ namespace Devices.Domain
 
             if (Volume >= 100)
                 Volume = 100;
+        }
+
+        public void SetChannel(int channel)
+        {
+            if (Channel == 100)
+                return;
+
+            if (Channel == 1 && channel == -1)
+                return;
+
+            Channel += channel;
         }
 
         public int GetVolume()
