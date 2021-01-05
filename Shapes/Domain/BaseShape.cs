@@ -49,7 +49,8 @@ namespace Domain
 
         public void Move(int x, int y)
         {
-            throw new System.NotImplementedException();
+            X += x;
+            Y += y;
         }
 
         public void Select()
@@ -59,7 +60,7 @@ namespace Domain
 
         public void UnSelect()
         {
-            throw new System.NotImplementedException();
+            Selected = false;
         }
     }
 }

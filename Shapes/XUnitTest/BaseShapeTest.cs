@@ -74,11 +74,38 @@ namespace XUnitTest
             int x = 1;
             int y = 1;
             Color color = new Color();
-
             BaseShape baseShape = new BaseShape(x, y, color);
+
             baseShape.Select();
 
             Assert.True(baseShape.IsSelected());
+        }
+
+        [Fact(DisplayName = "Should UnSelect set Selected in False")]
+        public void BaseShape_UnSelect_Selected()
+        {
+            int x = 1;
+            int y = 1;
+            Color color = new Color();
+            BaseShape baseShape = new BaseShape(x, y, color);
+
+            baseShape.UnSelect();
+
+            Assert.False(baseShape.IsSelected());
+        }
+
+        [Fact(DisplayName ="should Move sum value for X and Y")]
+        public void BaseShapoe_Move_SetXY()
+        {
+            int x = 3;
+            int y = 2;
+            Color color = new Color();
+            BaseShape baseShape = new BaseShape(x, y, color);
+
+            baseShape.Move(2, 4);
+
+            Assert.Equal(5, baseShape.GetX());
+            Assert.Equal(6, baseShape.GetY());
         }
     }
 }
