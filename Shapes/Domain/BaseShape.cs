@@ -2,7 +2,7 @@
 
 namespace Domain
 {
-    public class BaseShape: IShape
+    public abstract class BaseShape: IShape
     {
         public BaseShape(int x, int y, Color color)
         {
@@ -14,18 +14,12 @@ namespace Domain
 
         public int X { get; private set; }
         public int Y { get; private set; }
-        public Color Color { get; set; }
+        public Color Color { get; private set; }
         public bool Selected { get; private set; }
 
-        public int GetHeight()
-        {
-            return 0;
-        }
+        public abstract int GetHeight();
 
-        public int GetWidth()
-        {
-            return 0;
-        }
+        public abstract int GetWidth();
 
         public int GetX()
         {

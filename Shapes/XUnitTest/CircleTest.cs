@@ -4,20 +4,22 @@ using Xunit;
 
 namespace XUnitTest
 {
-    public class BaseShapeTest
+    public class CircleTest
     {
-        [Fact(DisplayName = "should return new instance")]
-        public void BaseShape_New_Object()
+        [Fact(DisplayName = "Should Circle create new instance")]
+        public void Circle_Case_NewObject()
         {
             int x = 1;
-            int y = 1;
+            int y = 3;
             Color color = new Color();
+            int radius = 4;
 
-            BaseShape baseShape = new BaseShape(x, y, color);
+            Circle circle = new Circle(x, y, color, radius);
 
-            Assert.Equal(x, baseShape.X);
-            Assert.Equal(y, baseShape.Y);
-            Assert.False(baseShape.Selected);
+            Assert.Equal(x, circle.X);
+            Assert.Equal(y, circle.Y);
+            Assert.False(circle.Selected);
+            Assert.Equal(radius, circle.Radius);
         }
 
         [Fact(DisplayName = "Should Getx return x value")]
@@ -27,7 +29,7 @@ namespace XUnitTest
             int y = 1;
             Color color = new Color();
 
-            BaseShape baseShape = new BaseShape(x, y, color);
+            BaseShape baseShape = new Circle(x, y, color, 2);
 
             Assert.Equal(x, baseShape.GetX());
         }
@@ -39,42 +41,42 @@ namespace XUnitTest
             int y = 1;
             Color color = new Color();
 
-            BaseShape baseShape = new BaseShape(x, y, color);
+            BaseShape baseShape = new Circle(x, y, color, 2);
 
             Assert.Equal(y, baseShape.GetY());
         }
 
-        [Fact(DisplayName = "Should GetWidth return 0")]
+        [Fact(DisplayName = "Should GetWidth return radius * 2")]
         public void BaseShape_GetWidth_Width()
         {
             int x = 1;
             int y = 1;
             Color color = new Color();
 
-            BaseShape baseShape = new BaseShape(x, y, color);
+            Circle circle = new Circle(x, y, color, 2);
 
-            Assert.Equal(0, baseShape.GetWidth());
+            Assert.Equal(4, circle.GetWidth());
         }
 
-        [Fact(DisplayName = "Should GetHeight return 0")]
+        [Fact(DisplayName = "Should GetHeight return radius * 2")]
         public void BaseShape_GetHeight_ReturnHeight()
         {
             int x = 1;
             int y = 1;
             Color color = new Color();
 
-            BaseShape baseShape = new BaseShape(x, y, color);
+            Circle circle = new Circle(x, y, color, 2);
 
-            Assert.Equal(0, baseShape.GetHeight());
+            Assert.Equal(4, circle.GetHeight());
         }
 
-        [Fact(DisplayName = "Should Select set Selected in true")] 
+        [Fact(DisplayName = "Should Select set Selected in true")]
         public void BaseShape_Select_SelectedTrue()
         {
             int x = 1;
             int y = 1;
             Color color = new Color();
-            BaseShape baseShape = new BaseShape(x, y, color);
+            BaseShape baseShape = new Circle(x, y, color, 2);
 
             baseShape.Select();
 
@@ -87,20 +89,20 @@ namespace XUnitTest
             int x = 1;
             int y = 1;
             Color color = new Color();
-            BaseShape baseShape = new BaseShape(x, y, color);
+            BaseShape baseShape = new Circle(x, y, color, 2);
 
             baseShape.UnSelect();
 
             Assert.False(baseShape.IsSelected());
         }
 
-        [Fact(DisplayName ="should Move sum value for X and Y")]
+        [Fact(DisplayName = "should Move sum value for X and Y")]
         public void BaseShapoe_Move_SetXY()
         {
             int x = 3;
             int y = 2;
             Color color = new Color();
-            BaseShape baseShape = new BaseShape(x, y, color);
+            BaseShape baseShape = new Circle(x, y, color, 2);
 
             baseShape.Move(2, 4);
 
